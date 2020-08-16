@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Abhishek.
 
-I'm a 4th year CS undergraduate at MIT, Manipal. I like to build toys for the web and dabble in some ML when I can. In my free time I can be found reading a book or noodling on the guitar. I reside on the internet right [here](https://databhishek.me).
+I'm a 4th year CS undergraduate at MIT, Manipal. I like to build toys for the web and dabble in some ML when I can. In my free time I can be found reading a book or noodling on the guitar. I reside on the internet right [here](https://abhshk.me).
 
 Here are a couple of other places I can be found in on the interweb.
 
