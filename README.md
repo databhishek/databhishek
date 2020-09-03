@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Abhishek</h1>
-<h3 align="center">I'm a 4th year CS undergraduate at MIT, Manipal. I like to build toys for the web and dabble in some ML when I can. In my free time I can be found reading a book or noodling on the guitar.</h3>
+<h2>👋 Hi, I'm Abhishek</h2>
+<p>I'm a 4th year CS undergraduate at MIT, Manipal. I like to build toys for the web and dabble in some ML when I can. In my free time I can be found reading a book or noodling on the guitar.</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=databhishek&layout=compact&hide=html" alt="databhishek" /></p>
 
